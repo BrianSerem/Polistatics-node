@@ -1,0 +1,24 @@
+{
+  "name": "polistatic-node",
+  "version": "1.0.0",
+  "description": "Contains backend src for Polistatics, an application for achieving data driven development in Kenya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianSerem/Polistatics-node.git"
+  },
+  "keywords": [
+    "[node",
+    "data",
+    "science]"
+  ],
+  "author": "serem <brianseremiat@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianSerem/Polistatics-node/issues"
+  },
+  "homepage": "https://github.com/BrianSerem/Polistatics-node#readme"
+}
