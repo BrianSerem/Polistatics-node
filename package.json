@@ -4,6 +4,8 @@
   "description": "Contains backend src for Polistatics, an application for achieving data driven development in Kenya",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +22,15 @@
   "bugs": {
     "url": "https://github.com/BrianSerem/Polistatics-node/issues"
   },
-  "homepage": "https://github.com/BrianSerem/Polistatics-node#readme"
+  "homepage": "https://github.com/BrianSerem/Polistatics-node#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-and-time": "^0.10.0",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
 }
