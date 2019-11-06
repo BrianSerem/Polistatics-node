@@ -33,7 +33,7 @@
     "jsonwebtoken": "^8.5.1",
     "mocha": "^6.2.1",
     "mockgoose": "^8.0.3",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "supertest": "^4.0.2"
   },
   "devDependencies": {
